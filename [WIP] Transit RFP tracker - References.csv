@@ -1,0 +1,48 @@
+reference_id,contract_id,agency_id,source_type,source_title,source_description,source_url,verified,date_published,date_field_verified
+1,1,1,report,TCRP Report 295 - MBTA Case Study,base year: Contract terms Jul 1 2020 - Jun 30 2023,https://nap.nationalacademies.org/read/26860/chapter/15,TRUE,7/1/23,contract_start_date;contract_end_date
+1,1,1,report,TCRP Report 295 - MBTA Case Study,Option year: Contract terms Jul 1 2023 - Jun 30 2025,https://nap.nationalacademies.org/read/26860/chapter/15,TRUE,7/1/23,contract_start_date;contract_end_date
+2,1,1,report,TCRP Report 295 - MBTA Case Study,RFP process initiated 2016,https://nap.nationalacademies.org/read/26860/chapter/9,TRUE,2023,rfp_release_date
+3,1,1,news_article,Uber Blog MBTA Partnership,Program made permanent July 1 2021,https://www.uber.com/blog/mbta/,TRUE,7/1/21,contract_start_date
+4,2,1,press_release,Spare Technology Award,Spare Press Release - Award Dec 17 2024,https://spare.com/press-releases/massachusetts-bay-transportation-authority-mbta-partners-with-spare-to-deliver-the-largest-fully-automated-paratransit-service-in-north-america,TRUE,12/17/24,award_date;contract_start_date
+5,3,2,board_resolution,MTA Board Resolution - RFP 468625,MTA Board Minutes - $72M contract award Aug 18 2025,https://www.mta.info/document/186626,TRUE,8/18/25,award_date
+6,3,2,board_resolution,MTA Board Resolution - RFP 468625,RFP release June 2024 due date Sep 9 2024,https://www.mta.info/document/186626,TRUE,6/1/24,rfp_release_date;proposal_due_date
+7,4,2,partnership_info,MTA NYC Lyft Partnership,Ongoing Lyft partnership for Access-A-Ride since 2017,https://www.mta.info/ehail,TRUE,2017,contract_start_date
+8,4,2,press_release,RideCo Partners with New York MTA,RIdeCo awarded contract with MTA NYCT,https://www.rideco.com/post/rideco-new-york-mta-to-implement-the-largest-modernized-paratransit-service-in-north-america,,10/21/25,
+8,5,3,board_award,DART GoLink Board Award,DART Board Award May 26 2020 - 3-year TNC contract,https://dartdaily.dart.org/home/dart-awards-uber-contract-for-ride-sharing-services,TRUE,5/26/20,award_date
+9,5,3,program_info,GoLink Program Information,Official DART GoLink service information,https://www.dart.org/guide/transit-and-use/golink,TRUE,NA,NA
+10,6,4,procurement_notice,BidNet Direct Solicitation,BidNet Direct - Solicitation 43019043049 release Jan 23 2024 due Mar 12 2024,https://www.bidnetdirect.com/district-of-columbia/solicitations/closed-bids/statewide/Metro-Access-Paratransit-Service-Delivery/43019043049,TRUE,1/23/24,rfp_release_date;proposal_due_date
+12,8,5,procurement_notice,APTA Passenger Transport - RFP AS-4180,Pre-proposal Jul 29 2025 Due Oct 6 2025 3PM PT,https://www.highergov.com/sl/contract-opportunity/ca-specialized-ada-transportation-service-52940325/,TRUE,7/1/25,rfp_release_date;proposal_due_date
+13,9,6,program_info,Pace ADA Paratransit,Pace regional ADA paratransit since July 1 2006,https://www.apta.com/research-technical-resources/mobility-innovation-hub/pace/,TRUE,7/1/06,contract_start_date
+14,9,6,procurement_portal,Pace Procurement Portal,Pace procurement and contracting,https://www.pacebus.com/guide-doing-business-pace,TRUE,NA,NA
+15,10,7,contract_award,MobilityLink Contract Award,MV Transportation 7-year award May 17 2022 (2022-2029),https://mvtransit.com/news/maryland-transit-administration-awards-paratransit-contract-to-mv-transportation/,TRUE,5/17/22,award_date;contract_start_date;contract_end_date
+16,11,8,procurement_portal,Access Link Region 4,questions due 3/20/25; intent to submit form 5/8/2025; bid date extended from 6/12/25,https://www.newjerseybids.com/government-agencies/essex/new-jersey-nj-transit-procurement-dept.-8704/14020736-paratransit-service-ada-access-link-system-region-4-rfp.html,TRUE,NA,rfp_release_date;proposal_due_date
+17,11,8,procurement_portal,NJ Transit Procurement,NJ Transit procurement portal,https://www.njtransit.com/procurement,TRUE,NA,NA
+18,11,8,procurement_platform,Bid Express,Electronic bidding platform,https://www.bidexpress.com/businesses/1462/home,TRUE,NA,NA
+19,12,9,procurement_notice,OC ACCESS RFP,Paratransit and OC Flex microtransit,https://www.bidnetdirect.com/california/solicitations/closed-bids/statewide/OC-ACCESS-Paratransit-and-OC-Flex-Microtransit-Services/1055906638,TRUE,NA,NA
+20,12,9,procurement_portal,CAMMNET Portal,date posted 12/14/2020; closing date 3/8/2021,https://cammnet.octa.net/procurements/landing/default.aspx?id=02150,TRUE,NA,rfp_release_date;proposal_due_date
+21,12,9,procurement_portal,planholders download,,https://cammnet.octa.net/procurements/planholders-list-report/Default.aspx?solnum=02150&dl=1,TRUE,,
+22,12,9,manual,,,https://manuals.plus/m/e54ebf0e04717857465d939d974344aa4556a78a511cde84f13c421295b9fa19,TRUE,,
+23,13,10,contract_award,METROLift Contract Award,MV Transportation 5-year award Mar 24 2021 (2021-2026),https://mvtransit.com/news/metropolitan-transit-authority-of-harris-county-awards-paratransit-contract-to-mv-transportation/,TRUE,3/24/21,award_date;contract_start_date;contract_end_date
+24,13,10,procurement_portal,METRO Procurement Portal,Houston METRO procurement opportunities,https://www.ridemetro.org/about/business-to-business/procurement-opportunities,TRUE,NA,NA
+25,14,11,press_release,Metro Flex Launch,Via Transportation microtransit partnership Nov 1 2024,https://www.masstransitmag.com/alt-mobility/shared-mobility/news/55318796/king-county-metro-transit-via-launch-microtransit-services,TRUE,11/1/24,award_date
+26,14,11,press_release,Metro Flex Service Start,Service launched March 6 2023,"https://kingcounty.gov/en/dept/executive/governance-leadership/king-county-executive/news/archive/2023/February/28-metro-flex.aspx#:~:text=Summary,Transit%2C%20and%20Via%20to%20Transit.",TRUE,3/6/23,contract_start_date
+27,15,11,procurement_portal,King County Procurement,King County procurement and contracts,https://kingcounty.gov/depts/finance-business-operations/procurement.aspx,TRUE,NA,NA
+28,16,12,program_info,Metro Mobility,Twin Cities paratransit service,https://metrocouncil.org/Transportation/Services/Metro-Mobility-Home.aspx,TRUE,NA,NA
+29,16,12,procurement_portal,Metropolitan Council Procurement,Metropolitan Council contracting,https://metrocouncil.org/About-Us/What-We-Do/DoingBusiness/Contracting-Opportunities.aspx,TRUE,NA,NA
+30,17,13,program_info,Access-a-Ride,RTD paratransit service information,https://www.rtd-denver.com/other-services/access-a-ride,TRUE,NA,NA
+31,17,13,procurement_portal,RTD Procurement Portal,RTD procurement resources,https://www.rtd-denver.com/doing-business-with-rtd/procurement-resources,TRUE,NA,NA
+32,19,14,program_info,STS Program,Special Transportation Service - 24/7 operations,https://www.miamidade.gov/transit/special-transportation.asp,TRUE,NA,NA
+33,19,14,memo,Miami-Dade county contracts for Special Transportation Services 7/2/24,,https://www.miamidade.gov/govaction/legistarfiles/Matters/Y2024/240823.pdf,TRUE,7/2/24,
+34,21,15,press_release,Spare Partnership,$4.5M contract with BART for East Bay Paratransit April 26 2024,https://spare.com/press-releases/spare-ac-transit-and-bart-announce-partnership-to-modernize-paratransit-services,TRUE,4/26/24,award_date;contract_start_date
+35,21,15,program_info,East Bay Paratransit,EBP service information,https://www.eastbayparatransit.org/,TRUE,NA,NA
+36,21,15,staff_report,AC transit approved of contract with Spare labs 4/24/2024,,"https://actransit.legistar.com/View.ashx?M=F&ID=14564839&GUID=C23ACC73-BAD0-4026-ACA2-CF3DDC407030#:~:text=On%20April%2011th%20and%2024th,funding%20agreement%20on%20May%2013",,,
+37,22,16,press_release,SEPTA Philadelphia Contract,Easton Coach Company 5-year contract Feb 22 2018,https://eastoncoach.com/easton-coach-company-awarded-septa-contract-to-operate-philadelphia-county-ada-paratransit-and-shared-ride-service/,TRUE,2/22/18,award_date
+38,22,16,procurement_notice,SEPTA Paratransit Operations,Philadelphia County contract 2016-2026,https://www.transit.dot.gov/sites/fta.dot.gov/files/docs/regulations-and-guidance/civil-rights-ada/118291/septa-final-ada-paratransit-report-2018.pdf,TRUE,4/1/18,contract_start_date;contract_end_date
+39,23,16,press_release,SEPTA Montgomery Contract,Easton Coach Company 5-year contract June 3 2020,https://eastoncoach.com/easton-coach-company-awarded-contract-to-operate-hunterdon-county-nj-link-transportation-system/,TRUE,6/3/20,award_date;contract_start_date
+40,24,16,press_release,RideCo SEPTA Partnership,RideCo software contract Sep 2023 launch Feb 22 2024,https://www.rideco.com/post/rideco-and-septa-launch-north-americas-largest-modernized-paratransit-system-in-less-than-5-months,TRUE,2/22/24,contract_start_date
+41,24,16,press_release,RideCo SEPTA Contract Date,Contract awarded September 2023,https://www.rideco.com/post/rideco-and-septa-launch-north-americas-largest-modernized-paratransit-system-in-less-than-5-months,TRUE,9/1/23,award_date
+42,30,16,program_info,CCT Connect,Customized Community Transportation service,https://www.septa.org/service/cct/,TRUE,NA,NA
+43,31,16,procurement_notice,RFP 10-130-RLW,Philadelphia County ADA Paratransit RFP,https://www.septa.org/business/bid/100k/detail/10-130-RLW.html,TRUE,NA,NA
+44,26,17,procurement_portal,SFMTA Procurement,SF Paratransit contracts and procurement,https://www.sfmta.com/units/contracts-procurement,TRUE,NA,NA
+45,28,18,program_info,Access Services,Regional paratransit coordination agency,https://accessla.org/,TRUE,NA,NA
+46,28,18,procurement_portal,LA Metro Procurement,Metro procurement opportunities,https://www.metro.net/about/doing-business-with-metro/,TRUE,NA,NA

@@ -1,0 +1,27 @@
+Contract ID,Agency,Service,Title,Type,Status,RFP Release,Due Date,Award,Start,End,Length(mo),Length(yr),Software,Operators,Lyft Spend
+1,MBTA,THE RIDE,RIDE Flex TNC,partnership,lyft-partner,6/1/16,NA,9/1/16,6/1/20,6/30/23,24,2,Spare,"National Express Transit, Veterans Transportation",8103767
+1,MBTA,THE RIDE,RIDE Flex TNC: Contract extension,partnership,lyft-partner,N/A,N/A,,7/1/23,6/30/25,24,,Spare,"National Express Transit, Veterans Transportation",8103767
+2,MBTA,THE RIDE,Spare Platform,technology,active,NA,NA,12/17/24,12/17/24,12/17/29,60,5,Spare,"National Express Transit, Veterans Transportation",8103767
+3,MTA NYC Transit,Access-A-Ride,Tech RFP 468625,technology,awarded,6/1/24,9/9/24,8/18/25,10/1/25,9/30/30,60,5,RideCo (Oct 2025),"PTM Management Corp, Broker Services",2339193
+5,DART,GoLink Microtransit,GoLink/Lyft,partnership,lyft-partner,5/1/20,NA,5/26/20,6/1/20,6/1/23,,3,Spare,MV Transportation,1230873
+6,WMATA,MetroAccess,Service RFP,operations,evaluation,1/23/24,3/12/24,,,,,,Trapeze,Multiple Regional,NA
+8,Access Services,Access Paratransit (LA),West Central AS-4180,operations,solicitation,7/1/25,10/6/25 15:00 PT,,,,,,Trapeze,Multiple Regional (6),NA
+9,Pace (RTA),Regional ADA Paratransit,RAP/TAP Program,operations,active,NA,NA,7/1/06,7/1/06,,,,Trapeze,Multiple,NA
+10,Maryland Transit Admin,MobilityLink,MobilityLink Contract,operations,active,NA,NA,5/17/22,5/17/22,12/31/29,96,8,Trapeze,"First Transit, MV, TransDev",NA
+11,NJ Transit,Access Link,Access Link Region 4,operations,active,NA,5/8/25,6/12/25,,,,,RouteMatch (Ecolane),"MV Transportation, A-1",NA
+12,OCTA,OC ACCESS,OC ACCESS/Flex,operations,expiring,12/14/20,3/2/21,,7/1/20,6/30/25,60,5,Trapeze,Transdev,NA
+13,METRO Houston,METROLift,METROLift Contract,operations,active,NA,NA,3/24/21,4/11/21,4/10/26,60,5,Trapeze,MV Transportation,NA
+14,King County Metro,Access Transportation,Metro Flex Service,microtransit,active,NA,NA,11/1/24,3/6/23,,,,Ecolane,In-house + Contractors,NA
+15,King County Metro,Access Transportation,Metro Flex Expansion,microtransit,active,NA,NA,,9/24/24,,,,Ecolane,In-house + Contractors,NA
+16,Metropolitan Council,Metro Mobility,Metro Mobility Operations,operations,active,NA,NA,,,,,,Trapeze,Multiple Regional,NA
+17,Denver RTD,Access-a-Ride,Access-on-Demand,microtransit,active,NA,NA,,1/1/20,,,,TBD,MV Transportation,NA
+18,Denver RTD,Access-a-Ride,MTM Assessment Contract,assessment,active,NA,NA,,9/1/23,8/31/28,60,5,TBD,MV Transportation,NA
+19,Miami-Dade Transit,Special Transportation,STS Operations,operations,active,NA,NA,7/2/24,,,,,Trapeze,MV Transportation,NA
+21,AC Transit,East Bay Paratransit,Spare Contract,technology,active,NA,NA,4/24/24,4/26/24,,,,Spare,MV Transportation,NA
+22,SEPTA,CCT Connect,SEPTA Access Philadelphia,operations,active,2/22/18,NA,2/22/18,7/1/16,6/30/26,120,10,Trapeze,Transdev,NA
+23,SEPTA,CCT Connect,SEPTA Access Montgomery,operations,active,6/3/20,NA,6/3/20,7/1/20,6/30/25,60,5,Trapeze,Transdev,NA
+24,SEPTA,CCT Connect,RideCo Software,technology,active,9/1/23,NA,9/1/23,1/28/24,,,,Trapeze,Transdev,NA
+25,SEPTA,CCT Connect,Paratransit RFP 2025,operations,planned,2025,NA,,7/1/28,6/30/33,60,5,Trapeze,Transdev,NA
+26,SFMTA,SF Paratransit,SF Paratransit Contract,operations,active,NA,NA,,7/1/21,6/30/26,60,5,Ecolane,Transdev,NA
+27,SFMTA,SF Paratransit,SF Paratransit: Contract Extension,operations,planned,NA,NA,,7/1/26,6/30/28,24,2,Ecolane,Transdev,NA
+28,LA Metro,Via Access Services,Regional Services,operations,active,NA,NA,,,,,,Trapeze (via Access),Multiple,NA
